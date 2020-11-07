@@ -10,4 +10,4 @@ These codes are too troublesome to review, so i put them here merely for recordi
 这些代码要review起来着实费劲，所以我把它们放在这里仅仅是为了记录。嗯，记录自己的成长历程哈哈哈。
 
 This is a 'delivery management system', the 'big homework' of OOP course. Emmm, it's literally not a 'system', but something just for fun.
-这是个所谓的“快递管理系统”，面向对象编程（C++）课的大作业。额，大概只能搞搞笑了吧，膜蛤黑淋2333
+这是个所谓的“快递管理系统”，面向对象编程（C++）课的大作业。额，大概只能搞搞笑了吧2333
